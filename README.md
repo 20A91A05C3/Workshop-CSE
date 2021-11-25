@@ -12,8 +12,11 @@ GIT and GITHUB
 # Arcane
 ![Arcane](https://static.wikia.nocookie.net/leagueoflegends/images/7/7d/Arcane_2021_Logo.jpg/revision/latest/scale-to-width-down/350?cb=20211024000745)
 
-# Tokyo Ghoul
+# Attack on Titan
+![Eager](https://info.umkc.edu/unews/wp-content/uploads/2021/03/Attack-on-Titan-Review.png)
 
+# Tokyo Ghoul
+![Ghoul](https://static.wikia.nocookie.net/tokyoghoul/images/7/73/TV_Visual_season_2.png/revision/latest?cb=20141203210634)
 
 # Your Name
 ![Taki](https://cinemapolis.org/wp-content/uploads/Yournameposter.jpg)
