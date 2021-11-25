@@ -22,7 +22,7 @@ GIT and GITHUB
 ![Silent](https://occ-0-1722-1723.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABdIC3Ua_kD0ITbIheGPJmEcuSFEj3mM280wlpYwAdBTkXiY45j0NQzisIDcb1PmB4ssH5D4yPFdXkfH10aWQ494roGuU.jpg?r=a77)
 
 # Attack on Titan
-![Eager](https://info.umkc.edu/unews/wp-content/uploads/2021/03/Attack-on-Titan-Review.png)
+
 
 ## Table of series
 |S.NO|Series Name|Watched|Netfix|Anime|
